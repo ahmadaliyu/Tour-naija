@@ -1,3 +1,2 @@
 # Tour-Nija
-
-This is a tourist information mobile Application for getting all the best tourist destinations across Nigeria
+A tourist information management mobile application for viewing tourist destinations across Nigeria
